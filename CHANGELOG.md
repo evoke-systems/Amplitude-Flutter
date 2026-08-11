@@ -1,3 +1,10 @@
+## [4.7.1](https://github.com/amplitude/Amplitude-Flutter/compare/v4.7.0...v4.7.1) (2026-08-11)
+
+
+### Bug Fixes
+
+* remove autocapture documentation from README ([#315](https://github.com/amplitude/Amplitude-Flutter/issues/315)) ([2a2ab64](https://github.com/amplitude/Amplitude-Flutter/commit/2a2ab64dd6d0f97bd6e957db3b62fa541a3a2b41))
+
 # [4.7.0](https://github.com/amplitude/Amplitude-Flutter/compare/v4.6.2...v4.7.0) (2026-08-11)
 
 
