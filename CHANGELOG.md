@@ -1,3 +1,10 @@
+# [4.7.0](https://github.com/amplitude/Amplitude-Flutter/compare/v4.6.2...v4.7.0) (2026-08-11)
+
+
+### Features
+
+* **autocapture:** web click/form/download capture, page-URL enrichment, and mobile screen views ([#309](https://github.com/amplitude/Amplitude-Flutter/issues/309)) ([9fabca2](https://github.com/amplitude/Amplitude-Flutter/commit/9fabca2582593f4b905c125811c12fae253a40f4))
+
 ## [4.6.2](https://github.com/amplitude/Amplitude-Flutter/compare/v4.6.1...v4.6.2) (2026-07-24)
 
 
